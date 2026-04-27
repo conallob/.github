@@ -53,9 +53,11 @@ Site Reliability Engineer based in Dublin, Ireland. I build tools for home autom
 
 | Project | Description |
 |---|---|
-| [Home Assistant](https://github.com/home-assistant) | Core platform and integrations |
-| [Prometheus](https://github.com/prometheus) | Monitoring system and time series database |
-| [Cloudprober](https://github.com/cloudprober/cloudprober) | Active monitoring software for cloud-native environments |
+| [home-assistant/core](https://github.com/home-assistant/core) | Core platform and integrations |
+| [prometheus/node_exporter](https://github.com/prometheus/node_exporter) | Prometheus exporter for hardware and OS metrics |
+| [prometheus/procfs](https://github.com/prometheus/procfs) | Go library for reading proc and sys filesystem metrics |
+| [prometheus/docs](https://github.com/prometheus/docs) | Prometheus documentation |
+| [cloudprober/cloudprober](https://github.com/cloudprober/cloudprober) | Active monitoring software for cloud-native environments |
 
 ---
 
