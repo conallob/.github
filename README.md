@@ -49,6 +49,16 @@ Site Reliability Engineer based in Dublin, Ireland. I build tools for home autom
 
 ---
 
+## Open Source Contributions
+
+| Project | Description |
+|---|---|
+| [Home Assistant](https://github.com/home-assistant) | Core platform and integrations |
+| [Prometheus](https://github.com/prometheus) | Monitoring system and time series database |
+| [Cloudprober](https://github.com/cloudprober/cloudprober) | Active monitoring software for cloud-native environments |
+
+---
+
 ## Other Projects
 
 | Repository | Description |
