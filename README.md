@@ -34,6 +34,7 @@ Site Reliability Engineer based in Dublin, Ireland. I build tools for home autom
 |---|---|
 | [hassio-addons](https://github.com/conallob/hassio-addons) | Personal collection of Home Assistant add-ons |
 | [hassio-obsidian-headless](https://github.com/conallob/hassio-obsidian-headless) | Multi-functional add-on combining Obsidian headless and related tools |
+| [ireland-electricity-tariffs](https://github.com/conallob/ireland-electricity-tariffs) | Crowd-sourced dataset of Irish electricity tariffs for scripting and Home Assistant |
 
 ---
 
@@ -53,7 +54,6 @@ Site Reliability Engineer based in Dublin, Ireland. I build tools for home autom
 | Repository | Description |
 |---|---|
 | [obsidian-readlater](https://github.com/conallob/obsidian-readlater) | Middleware plugin to sync read-later lists from various sources into Obsidian |
-| [ireland-electricity-tariffs](https://github.com/conallob/ireland-electricity-tariffs) | Crowd-sourced dataset of Irish electricity tariffs for scripting and Home Assistant |
 | [homelab](https://github.com/conallob/homelab) | Configuration and docs for my home lab (Raspberry Pi, Compute Blade, k8s) |
 | [dotfiles](https://github.com/conallob/dotfiles) | Shell and CLI tool configuration managed with [chezmoi](https://chezmoi.io) |
 | [homebrew-tap](https://github.com/conallob/homebrew-tap) | Homebrew tap for my personal scripts and binaries |
